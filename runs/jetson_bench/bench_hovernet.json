@@ -1,0 +1,33 @@
+{
+  "n_warmup": 50,
+  "n_measured": 500,
+  "median_ms": 12.51281300028495,
+  "p95_ms": 12.647351999567036,
+  "p99_ms": 12.86091189032959,
+  "mean_ms": 12.532429367973236,
+  "std_ms": 0.06944603345992496,
+  "min_ms": 12.457803999495809,
+  "max_ms": 12.998872000025585,
+  "power_mean_w": 12.077576271186443,
+  "energy_mean_mJ": 151.36137155495368,
+  "energy_median_mJ": 151.12445337803476,
+  "energy_p95_mJ": 152.74935840331324,
+  "temps_start_c": {
+    "cpu-thermal": 44.906,
+    "soc2-thermal": 43.031,
+    "soc0-thermal": 44.0,
+    "gpu-thermal": 45.062,
+    "tj-thermal": 45.062,
+    "soc1-thermal": 44.0
+  },
+  "temps_end_c": {
+    "cpu-thermal": 45.5,
+    "soc2-thermal": 43.75,
+    "soc0-thermal": 44.687,
+    "gpu-thermal": 45.656,
+    "tj-thermal": 45.656,
+    "soc1-thermal": 44.562
+  },
+  "protocol_ok": true,
+  "engine": "engines/hovernet_fp16.trt"
+}

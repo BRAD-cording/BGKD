@@ -1,0 +1,9 @@
+patch_id,group,n_gt,n_pred,tp,pq,f1_det,mpq_plus,aji,hd95,assd,bf1_2px,dice2px,dice5px,dice10px
+fold1_00000,3,8,9,0,0.0,0.0,0.0,0.0007891414141414141,nan,nan,nan,nan,nan,nan
+fold1_00001,3,10,5,0,0.0,0.0,0.0,0.0,nan,nan,nan,nan,nan,nan
+fold1_00002,3,11,10,0,0.0,0.0,0.0,0.000447360572621533,nan,nan,nan,nan,nan,nan
+fold1_00003,3,10,3,0,0.0,0.0,0.0,0.0,nan,nan,nan,nan,nan,nan
+fold1_00004,3,7,6,0,0.0,0.0,0.0,0.0,nan,nan,nan,nan,nan,nan
+fold1_00005,3,7,7,0,0.0,0.0,0.0,0.0010106843777071904,nan,nan,nan,nan,nan,nan
+fold1_00006,3,9,5,0,0.0,0.0,0.0,0.003144354454502144,nan,nan,nan,nan,nan,nan
+fold1_00007,3,10,12,0,0.0,0.0,0.0,0.0006256082302238288,nan,nan,nan,nan,nan,nan

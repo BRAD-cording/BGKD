@@ -1,0 +1,33 @@
+{
+  "n_warmup": 50,
+  "n_measured": 500,
+  "median_ms": 5.685576999894693,
+  "p95_ms": 5.74333479953566,
+  "p99_ms": 5.8061016003921395,
+  "mean_ms": 5.692354509978031,
+  "std_ms": 0.03306315188477188,
+  "min_ms": 5.640968000079738,
+  "max_ms": 6.0576490013772855,
+  "power_mean_w": 10.653076923076922,
+  "energy_mean_mJ": 60.64109046821981,
+  "energy_median_mJ": 60.56888913195507,
+  "energy_p95_mJ": 61.18418741443796,
+  "temps_start_c": {
+    "cpu-thermal": 44.218,
+    "soc2-thermal": 42.75,
+    "soc0-thermal": 43.812,
+    "gpu-thermal": 44.218,
+    "tj-thermal": 44.406,
+    "soc1-thermal": 43.687
+  },
+  "temps_end_c": {
+    "cpu-thermal": 44.656,
+    "soc2-thermal": 43.031,
+    "soc0-thermal": 44.0,
+    "gpu-thermal": 44.656,
+    "tj-thermal": 44.656,
+    "soc1-thermal": 43.906
+  },
+  "protocol_ok": true,
+  "engine": "engines/ddbunet_fp16.trt"
+}

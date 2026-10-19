@@ -1,0 +1,33 @@
+{
+  "n_warmup": 50,
+  "n_measured": 500,
+  "median_ms": 9.578598000189231,
+  "p95_ms": 9.890182000253844,
+  "p99_ms": 9.94773403961517,
+  "mean_ms": 9.606662492009491,
+  "std_ms": 0.088619024278341,
+  "min_ms": 9.541157000057865,
+  "max_ms": 10.026128999015782,
+  "power_mean_w": 10.297044444444445,
+  "energy_mean_mJ": 98.92023064299916,
+  "energy_median_mJ": 98.6312493234152,
+  "energy_p95_mJ": 101.8396436202583,
+  "temps_start_c": {
+    "cpu-thermal": 42.468,
+    "soc2-thermal": 40.906,
+    "soc0-thermal": 42.0,
+    "gpu-thermal": 42.5,
+    "tj-thermal": 42.437,
+    "soc1-thermal": 42.062
+  },
+  "temps_end_c": {
+    "cpu-thermal": 43.062,
+    "soc2-thermal": 41.718,
+    "soc0-thermal": 42.562,
+    "gpu-thermal": 43.312,
+    "tj-thermal": 43.312,
+    "soc1-thermal": 42.5
+  },
+  "protocol_ok": true,
+  "engine": "engines/nulite_t_fp16.trt"
+}

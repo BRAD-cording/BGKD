@@ -1,0 +1,17 @@
+{
+  "n_gt": 9.0,
+  "n_pred": 1.0,
+  "tp": 0.0,
+  "pq": 0.0,
+  "f1_det": 0.0,
+  "mpq_plus": 0.0,
+  "aji": 0.03681338718205049,
+  "hd95": NaN,
+  "assd": NaN,
+  "bf1_2px": NaN,
+  "dice2px": NaN,
+  "dice5px": NaN,
+  "dice10px": NaN,
+  "mean_epoch_sec": 2.8,
+  "est_hours_per_fold_50ep": 0.03888888888888889
+}

@@ -1,0 +1,16 @@
+{
+  "pretrained": "C:/runs/own_baseline_f2",
+  "out": "C:/runs/t19_ft_own",
+  "data": "C:\\data\\consep\\consep_finetune.npz",
+  "test_data": "C:\\data\\consep\\consep_test.npz",
+  "stats": "C:\\data\\consep\\stain_stats_consep.json",
+  "epochs": 50,
+  "lr": 3e-05,
+  "batch": 16,
+  "wd": null,
+  "crops_per_tile": 32,
+  "val_every": 5,
+  "seed": 0,
+  "device": "cuda",
+  "smoke": false
+}

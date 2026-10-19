@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.npz
+*.onnx
+data/
+PanNuke/
+third_party/
+*.log

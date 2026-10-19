@@ -1,0 +1,33 @@
+{
+  "n_warmup": 50,
+  "n_measured": 500,
+  "median_ms": 30.87935099938477,
+  "p95_ms": 30.961733799176727,
+  "p99_ms": 31.085655200877227,
+  "mean_ms": 30.888015410011576,
+  "std_ms": 0.1266783540428842,
+  "min_ms": 30.769187998885172,
+  "max_ms": 33.4676220008987,
+  "power_mean_w": 12.535376712328768,
+  "energy_mean_mJ": 387.1929090607112,
+  "energy_median_mJ": 387.0842974095139,
+  "energy_p95_mJ": 388.11699683952247,
+  "temps_start_c": {
+    "cpu-thermal": 45.406,
+    "soc2-thermal": 43.875,
+    "soc0-thermal": 44.781,
+    "gpu-thermal": 45.875,
+    "tj-thermal": 45.875,
+    "soc1-thermal": 44.468
+  },
+  "temps_end_c": {
+    "cpu-thermal": 46.687,
+    "soc2-thermal": 45.25,
+    "soc0-thermal": 46.187,
+    "gpu-thermal": 47.468,
+    "tj-thermal": 47.468,
+    "soc1-thermal": 45.812
+  },
+  "protocol_ok": true,
+  "engine": "engines/cellvit_t256_fp16.trt"
+}

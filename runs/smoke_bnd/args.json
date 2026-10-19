@@ -1,0 +1,23 @@
+{
+  "data_root": "C:\\data\\pannuke",
+  "model": "own_baseline",
+  "fold": 1,
+  "seed": 0,
+  "epochs": 1,
+  "batch": 4,
+  "lr": 0.0003,
+  "wd": 0.0001,
+  "workers": 0,
+  "stain": "reinhard",
+  "out": "C:\\runs\\smoke_bnd",
+  "val_every": 5,
+  "limit": 8,
+  "base": 32,
+  "sobel_gate": false,
+  "rab": false,
+  "boundary_loss": true,
+  "lambda_np": 1.0,
+  "lambda_hv": 2.0,
+  "lambda_bnd": 1.0,
+  "no_resume": false
+}

@@ -1,0 +1,2 @@
+epoch,lr,train_loss,l_seg,l_hv,l_bnd,l_type,sec,gpu_temp_c
+1,0.00e+00,3.55397,1.18714,1.33957,0.00000,2.05453,4.2,68.0

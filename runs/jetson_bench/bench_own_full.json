@@ -1,0 +1,33 @@
+{
+  "n_warmup": 50,
+  "n_measured": 500,
+  "median_ms": 10.066401999210939,
+  "p95_ms": 10.111732598761591,
+  "p99_ms": 10.134686240216979,
+  "mean_ms": 10.071185785975103,
+  "std_ms": 0.022191327047265223,
+  "min_ms": 10.02516900007322,
+  "max_ms": 10.210549999101204,
+  "power_mean_w": 11.546680851063831,
+  "energy_mean_mJ": 116.28876806242496,
+  "energy_median_mJ": 116.23353120339962,
+  "energy_p95_mJ": 116.75694916919838,
+  "temps_start_c": {
+    "cpu-thermal": 43.843,
+    "soc2-thermal": 42.25,
+    "soc0-thermal": 43.218,
+    "gpu-thermal": 44.093,
+    "tj-thermal": 44.093,
+    "soc1-thermal": 43.281
+  },
+  "temps_end_c": {
+    "cpu-thermal": 44.406,
+    "soc2-thermal": 42.906,
+    "soc0-thermal": 43.812,
+    "gpu-thermal": 44.625,
+    "tj-thermal": 44.625,
+    "soc1-thermal": 43.75
+  },
+  "protocol_ok": true,
+  "engine": "engines/own_full_fp16.trt"
+}
